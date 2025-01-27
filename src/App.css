@@ -59,3 +59,55 @@
   padding: 10px;
   font-size: 1.2rem;
 }
+.what-i-do-heading {
+  font-size: 4.5rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.what-i-do-right {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.home-box {
+  background-color: #1a1a1a;
+  border: 2px dashed #6a1b9a;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  width: 400px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  color: white;
+}
+
+.home-box:hover {
+  transform: scale(1.05);
+}
+
+.active-box {
+  transform: scale(1.1);
+  border-color: #9c27b0;
+}
+
+.box-title {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.box-description {
+  font-size: 1rem;
+  opacity: 0.7;
+  max-height: 50px;
+  transition: all 0.3s ease;
+}
+
+.show-description {
+  opacity: 1;
+  max-height: 80px;
+}
