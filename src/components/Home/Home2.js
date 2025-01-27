@@ -16,7 +16,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm Laiba, a passionate **Frontend Developer** and **UI/UX Designer**. I love creating beautiful, user-friendly interfaces and bringing ideas to life through code and design.
+              I'm Laiba, a creative Designer and Developer. I love creating beautiful, user-friendly interfaces and bringing ideas to life through code and design.
               <br />
               <br />
               I’m fluent in technologies like
@@ -28,7 +28,7 @@ function Home2() {
               My interests lie in designing intuitive and visually appealing user experiences while building responsive, performant websites. I love blending **UI/UX design** with frontend development to create seamless, interactive web experiences.
               <br />
               <br />
-              In addition to my frontend skills, I’m passionate about graphic design and creating **modern designs** that are both functional and aesthetic. I use tools like **Figma**, **Adobe XD**, and **Photoshop** to craft designs that not only look great but also provide a smooth user experience.
+              In addition to my frontend skills, I’m passionate about graphic design and creating modern designs that are both functional and aesthetic. I use tools like **Figma**, **Adobe XD**, and **Photoshop** to craft designs that not only look great but also provide a smooth user experience.
               <br />
               <br />
               I enjoy working on projects that involve both development and design, bringing together the best of both worlds to create something amazing.
